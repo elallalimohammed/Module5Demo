@@ -1,7 +1,7 @@
 namespace UsersWebApiTest_Module3
 {
-    public class OrderControllerTests
+    [TestClass]
+    public class OrderControllerTestsWithMoq
     {
-        
     }
 }
