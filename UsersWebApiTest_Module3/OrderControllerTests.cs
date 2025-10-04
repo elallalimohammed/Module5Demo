@@ -68,7 +68,7 @@ namespace UsersWebApiTest_Module3
                     // Assert
                     var notFoundResult = result as NotFoundObjectResult;
                     Assert.IsNotNull(notFoundResult);
-                    Assert.AreEqual("User not found", notFoundResult.Value);
+                   Assert.AreEqual("User not found", notFoundResult.Value);
                 }
 /*
                 [TestMethod]
