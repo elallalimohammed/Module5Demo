@@ -53,7 +53,7 @@ namespace UsersWebApiTest_Module3
                     // Assert
                     Assert.IsInstanceOfType(result, typeof(BadRequestResult));
                 }
-                /*
+                
 
                 [TestMethod]
                 public async Task Create_UserDoesNotExist_ReturnsNotFound()
@@ -70,7 +70,7 @@ namespace UsersWebApiTest_Module3
                     Assert.IsNotNull(notFoundResult);
                     Assert.AreEqual("User not found", notFoundResult.Value);
                 }
-
+/*
                 [TestMethod]
                 public async Task Create_RepositoryFails_ReturnsBadRequest()
                 {
