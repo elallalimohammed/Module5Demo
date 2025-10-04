@@ -4,6 +4,7 @@ using UsersWebApi_Module3.Repositories;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using UsersWebApi_Module3.Models;
 
 namespace UsersWebApiTest_Module3
 {
@@ -39,7 +40,7 @@ namespace UsersWebApiTest_Module3
         }
         
 
-        /*
+        
                 [TestMethod]
                 public async Task Create_MissingUserId_ReturnsBadRequest()
                 {
@@ -52,6 +53,7 @@ namespace UsersWebApiTest_Module3
                     // Assert
                     Assert.IsInstanceOfType(result, typeof(BadRequestResult));
                 }
+                /*
 
                 [TestMethod]
                 public async Task Create_UserDoesNotExist_ReturnsNotFound()
