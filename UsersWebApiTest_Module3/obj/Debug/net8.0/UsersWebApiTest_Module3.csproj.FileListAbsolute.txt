@@ -268,3 +268,6 @@ c:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udviklin
 c:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udvikling\Modul 5\UsersWebApi_Module3\UsersWebApiTest_Module3\obj\Debug\net8.0\UsersWeb.735DA4F2.Up2Date
 c:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udvikling\Modul 5\UsersWebApi_Module3\UsersWebApiTest_Module3\obj\Debug\net8.0\UsersWebApiTest_Module3.genruntimeconfig.cache
 c:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udvikling\Modul 5\UsersWebApi_Module3\UsersWebApiTest_Module3\obj\Debug\net8.0\ref\UsersWebApiTest_Module3.dll
+c:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udvikling\Modul 5\UsersWebApi_Module3\UsersWebApiTest_Module3\obj\Debug\net8.0\UsersWebApiTest_Module3.sourcelink.json
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udvikling\Modul 5\UsersWebApi_Module3\UsersWebApiTest_Module3\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\moal\Documents\Teaching_AArhus\Undervisning efterår 2025\Agil udvikling\Modul 5\UsersWebApi_Module3\UsersWebApiTest_Module3\bin\Debug\net8.0\Moq.dll

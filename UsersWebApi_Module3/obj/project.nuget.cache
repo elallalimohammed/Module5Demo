@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7k35ATg9hyc=",
+  "dgSpecHash": "jg92JjviEdM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efterår 2025\\Agil udvikling\\Modul 5\\UsersWebApi_Module3\\UsersWebApi_Module3\\UsersWebApi_Module3.csproj",
+  "projectFilePath": "C:\\Users\\moal\\Documents\\Teaching_AArhus\\Undervisning efterår 2025\\Agil udvikling\\Modul 5\\UsersWebApi_Module3\\UsersWebApi_Module3\\UsersWebApi_Module3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moal\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.9\\microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
     "C:\\Users\\moal\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.9\\microsoft.entityframeworkcore.abstractions.9.0.9.nupkg.sha512",
