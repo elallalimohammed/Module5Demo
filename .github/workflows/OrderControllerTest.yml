@@ -5,9 +5,9 @@ name: .NET
 
 on:
   push:
-    branches: [ "feature/CreateOrder" ]
+    branches: ["**"]
   pull_request:
-    branches: [ "develop" ]
+    branches: ["**"]
 
 jobs:
   build:
