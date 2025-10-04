@@ -33,16 +33,7 @@ namespace UsersWebApiTest_Module3
            
         }
         
-        [TestMethod]
-        public async Task Create_NullOrder_ReturnsBadRequest()
-        {
-            // Arrange
-
-            // Act
-            var result = await _controller.Create(null);
-
-            // Assert
-        }
+       
 
       /* [TestMethod]
           public async Task CreateOrder_ShouldReturnBadRequest_WhenUserDoesNotExist()
