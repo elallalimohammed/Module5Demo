@@ -22,7 +22,7 @@ namespace UsersWebApi_Module3.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Order order)
         {
-            if (order == null)
+           if (order == null || order.UserId == "")
             {
                 return BadRequest() as IActionResult;
             }

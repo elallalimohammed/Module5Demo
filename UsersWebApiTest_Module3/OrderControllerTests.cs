@@ -48,7 +48,7 @@ namespace UsersWebApiTest_Module3
                     var order = new Order { UserId = "" };
 
                     // Act
-                    var result = await _controller.Create(order);
+                    var result = await _controller.Create(order) as BadRequestResult;
 
                     // Assert
                     Assert.IsInstanceOfType(result, typeof(BadRequestResult));
